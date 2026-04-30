@@ -1,0 +1,1 @@
+import{t as e}from"./gsap-TT4kdSlQ.js";import{t}from"./GsapScroll-Dy90SrCV.js";import{r as n,t as r}from"./SplitText-BX1qvgWB.js";e.registerPlugin(r);function i(){document.body.style.overflowY=`auto`,n?.start(),document.getElementsByTagName(`main`)[0].classList.add(`main-active`),e.to(`body`,{backgroundColor:`#0a0e17`,duration:.5,delay:1}),t()}export{i as initialFX};
